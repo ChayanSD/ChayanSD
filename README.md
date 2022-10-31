@@ -1,8 +1,8 @@
 ![logo](https://github.com/ChayanSD/ChayanSD/blob/main/FACEBOOK.png)
 <h1 align="center">Hi 👋, I'm Chayan Chandro Sutrodhar</h1>
-<h3 align="center">A passionate learner</h3>
+<h3 align="center">A passionate Competitive Programmer , Developer and OperSource Contributor</h3>
 
-<img align="right" alt="Coading" width="400" src="https://camo.githubusercontent.com/b0476e711d948b5db51678ba19f80da25ccc88d5893852563e216ad833cbeb55/68747470733a2f2f63646e2e66696c65737461636b636f6e74656e742e636f6d2f6566625352313868543575524b756f307a6f4d41">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/b0476e711d948b5db51678ba19f80da25ccc88d5893852563e216ad833cbeb55/68747470733a2f2f63646e2e66696c65737461636b636f6e74656e742e636f6d2f6566625352313868543575524b756f307a6f4d41">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chayansd&label=Profile%20views&color=0e75b6&style=flat" alt="chayansd" /> </p>
 
