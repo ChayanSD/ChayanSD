@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chayansd&label=Profile%20views&color=0e75b6&style=flat" alt="chayansd" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ChayanChandro" target="blank"><img src="https://img.shields.io/twitter/follow/@chayanchandro?logo=twitter&style=for-the-badge" alt="@chayanchandro" /></a> </p>
+
 
 - 🌱 I’m currently learning **Java , C++, Web Dev , DevOps**
 
