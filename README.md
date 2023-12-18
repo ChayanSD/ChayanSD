@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **Java , Kotlin , Android , DevOps**
+- 🌱 I’m currently learning **Java , JavaScript , Backend , DSA**
 
 - 💬 Ask me about **Core Java**
 
